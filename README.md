@@ -14,7 +14,7 @@
  
  <br>
  
-  ### <Transformando linhas de código em soluções que impactam o mundo> ###
+  ### <O sucesso é construído por pequenas vitórias diárias.> ###
  
 <div> 
   
