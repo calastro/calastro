@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/calastro">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Calastro!;Gestão+da+TI+|+Anhembi+Morumbi;Inovação,+IA+e+Automação;Surfista+desde+os+10+anos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Calastro!+%F0%9F%91%8B;Gestão+da+TI+|+Anhembi+Morumbi;Foco+em+inovação,+automação+e+IA;Surfista+desde+os+10+anos" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -29,7 +29,7 @@
 * 🎓 Cursando **Gestão da TI** na Universidade Anhembi Morumbi.
 * ⚙️ Foco em **inovação, automação, IA e otimização de processos** (curto explorar como o Python e ferramentas como Power Automate/Power BI podem escalar isso).
 * 🌊 **Para descontrair:** Surfo desde os 10 anos de idade! É no mar que recarrego as baterias para voltar com a mente fresca.
-* 🏴‍☠️ E claro, sempre tem tempo para acompanhar bons animes! 
+* 🏴‍☠️ E claro, sempre tem tempo para acompanhar bons animes!
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,python,mysql&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,python,docker&theme=dark" alt="My Skills" />
   </a>
 </div>
 
