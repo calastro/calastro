@@ -1,72 +1,83 @@
 <div align="center">
 
-# Calastro 😁  
-### O sucesso é construído por pequenas vitórias diárias.
-
-<a href="https://www.linkedin.com/in/josecalastro" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/netocalastro" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:netocalastro@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Cards principais -->
 <a href="https://github.com/calastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/calastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calastro&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Calastro!+%F0%9F%91%8B;Gestão+da+TI+|+Anhembi+Morumbi;Inovação,+IA+%26+Automação;Surfista+desde+os+10+anos+%F0%9F%8C%8A" alt="Typing SVG" />
 </a>
 
+<p align="center">
+  <b>O sucesso é construído por pequenas vitórias diárias.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josecalastro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/netocalastro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:netocalastro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 </div>
 
 <br/>
 
+### 👨‍💻 Um pouco sobre mim
+
+* 🎂 Tenho **27 anos** e busco sempre soluções que facilitem o dia a dia.
+* 🎓 Cursando **Gestão da TI** na Universidade Anhembi Morumbi.
+* ⚙️ Foco em **inovação, automação, IA e otimização de processos** (curto explorar como o Python e ferramentas como Power Automate/Power BI podem escalar isso).
+* 🌊 **Para descontrair:** Surfo desde os 10 anos de idade! É no mar que recarrego as baterias para voltar com a mente fresca.
+* 🏴‍☠️ E claro, sempre tem tempo para acompanhar bons animes! 
+
+<br/>
+
+### 🛠️ Minhas Tecnologias
+
 <div align="center">
-
-<!-- Streak (sequência de contribuições) -->
-<img height="180em" src="https://streak-stats.demolab.com?user=calastro&theme=tokyonight&hide_border=true" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,python,mysql&theme=dark" alt="My Skills" />
+  </a>
 </div>
 
 <br/>
 
+### 📊 Dashboard de Atividades
+
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/calastro">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=calastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/calastro">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calastro&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00BFFF" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<!-- Gráfico de atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=calastro&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/calastro">
+    <img width="100%" src="https://streak-stats.demolab.com?user=calastro&theme=tokyonight&hide_border=true&fire=00BFFF&ring=00BFFF" alt="GitHub Streak" />
+  </a>
 
+  <a href="https://github.com/calastro">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=calastro&theme=tokyo-night&hide_border=true&color=00BFFF" alt="Activity Graph" />
+  </a>
 </div>
 
 <br/>
 
-<div align="center">
-
-<!-- Badges de tecnologias (edite/adicione as que quiser) -->
-<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js&logoColor=3C873A" />
-<img src="https://img.shields.io/badge/Supabase-111?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
-
-</div>
-
-<br/>
+### 🐍 Commits Snake
 
 <div align="center">
-
-<!-- Snake (precisa do workflow abaixo) -->
-<img alt="Snake animation" src="https://github.com/calastro/calastro/blob/output/github-contribution-grid-snake.svg" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calastro/calastro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/calastro/calastro/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/calastro/calastro/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
