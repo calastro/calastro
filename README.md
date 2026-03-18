@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,python,sql&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,python,docker,postgres,githubactions,tensorflow&theme=dark" alt="My Skills" />
   </a>
 </div>
 
