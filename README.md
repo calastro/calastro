@@ -26,10 +26,10 @@
 ### 👨‍💻 Um pouco sobre mim
 
 * 🎂 Tenho **27 anos** e busco sempre soluções que facilitem o dia a dia.
-* 🎓 Cursando **Gestão da TI** na Universidade Anhembi Morumbi.
-* ⚙️ Foco em **inovação, automação, IA e otimização de processos** (curto explorar como o Python e ferramentas como Power Automate/Power BI podem escalar isso).
-* 🌊 **Para descontrair:** Surfo desde os 10 anos de idade! É no mar que recarrego as baterias para voltar com a mente fresca.
-* 🏴‍☠️ E claro, sempre tem tempo para acompanhar bons animes!
+* 🎓 Cursando **Gestão da TI** na Universidade Anhembi Morumbi (Conclusão prevista -> 07/2026).
+* ⚙️ Foco em **Integrar dados, inovação, automação com apoio da IA e otimização de processos** (curto explorar Python e ferramentas como Power Automate/Power BI).
+* 🌊 **Hobby:** Surfo desde os 10 anos de idade! É no mar que recarrego as energia para voltar com a mente fresca.
+* 🏴‍☠️ E claro, sempre reservo um tempo para acompanhar bons animes!
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,python,docker&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,python,sql&theme=dark" alt="My Skills" />
   </a>
 </div>
 
