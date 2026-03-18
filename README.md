@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/calastro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Calastro!+%F0%9F%91%8B;Gestão+da+TI+|+Anhembi+Morumbi;Inovação,+IA+%26+Automação;Surfista+desde+os+10+anos+%F0%9F%8C%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Calastro!;Gestão+da+TI+|+Anhembi+Morumbi;Inovação,+IA+e+Automação;Surfista+desde+os+10+anos" alt="Typing SVG" />
 </a>
 
 <p align="center">
